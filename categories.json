@@ -1,3 +1,644 @@
 {
-  "categories": {}
+  "categories": {
+    "Lubricants": {
+      "canonical": "Lubricants",
+      "examples": [
+        "Lubricants - Pre Delivery",
+        "Pre Delivery - Additional Grade Copco Roto-XtendDuty",
+        "Predelivery - Additional Grades",
+        "Predelivery Lubes - Order # 2 (5713853485)",
+        "Pre Delivery Lubes Order# 3 (5714478288)",
+        "Pre Delivery - Lubes Order# 3 (5715069528)",
+        "Pre-Delivery - Lubes",
+        "Final Sailing Qty of Lubes",
+        "PD Lubes - VLSQ61941 - Kaeser Fluid Rotary S-46X",
+        "RSC Lube oil - qty / Total for Glovis Lighthouse",
+        "RSC Lube oil - qty",
+        "lube oil for Sailing quantity",
+        "Predelivery - Visga 46 5715010143",
+        "Glycol",
+        "PD - RSC Envirologic",
+        "AST PO",
+        "FS -AST-LANDER",
+        "FS -AST-LINK",
+        "FS-AST-SAMPLE",
+        "FS-AST-LOGOS",
+        "FS-AST-LOYOL"
+      ]
+    },
+    "IT Equipment - ITBP": {
+      "canonical": "IT Equipment - ITBP",
+      "examples": [
+        "FS-ITBP  -lander",
+        "FS-ITBP  -luminous",
+        "FS-ITBP  -glovis lighthouse",
+        "FS-ITBP  -glovis link",
+        "FS-ITBP  -LOGOS",
+        "FS-ITBP  -LOYAL",
+        "FS-ITBP  -1"
+      ]
+    },
+    "IT Equipment - ITBP Additional Items": {
+      "canonical": "IT Equipment - ITBP Additional Items",
+      "examples": [
+        "FS-ITBP Additional Item"
+      ]
+    },
+    "IT Equipment - ITBP Lab Kit": {
+      "canonical": "IT Equipment - ITBP Lab Kit",
+      "examples": [
+        "FS-ITBP MISC LAB KIT"
+      ]
+    },
+    "IT Equipment - ITBP Cables": {
+      "canonical": "IT Equipment - ITBP Cables",
+      "examples": [
+        "FS-ITBP CABLES"
+      ]
+    },
+    "IT Equipment - ITBP Licenses": {
+      "canonical": "IT Equipment - ITBP Licenses",
+      "examples": [
+        "FS-ITBP-LICENSES"
+      ]
+    },
+    "IT Equipment - ITBP Tax Invoice": {
+      "canonical": "IT Equipment - ITBP Tax Invoice",
+      "examples": [
+        "FS-ITBP tax invoice"
+      ]
+    },
+    "IT Equipment - X10 System": {
+      "canonical": "IT Equipment - X10 System",
+      "examples": [
+        "FS-X10-LANDER",
+        "FS-X10-SILVERPEAK",
+        "FS-X10",
+        "fs-x10 sample test"
+      ]
+    },
+    "IT Equipment - Computers (Lenovo)": {
+      "canonical": "IT Equipment - Computers (Lenovo)",
+      "examples": [
+        "FS-LENOVO-Lander",
+        "FS-LENOVO-Luminous",
+        "FS-LENOVO-Lighthouse",
+        "FS-LENOVO-Link",
+        "FS-LENOVO-Logos",
+        "FS-LENOVO-Loyal"
+      ]
+    },
+    "IT Equipment - Interface / Integration": {
+      "canonical": "IT Equipment - Interface / Integration",
+      "examples": [
+        "Interface PO -24110005",
+        "Interface PO",
+        "Interface PO-H1612",
+        "FS-Interface-Lander",
+        "FS-Interface-Light house",
+        "FS-Interface MTA adapter",
+        "Interface -equipment-lighthouse",
+        "fs interface"
+      ]
+    },
+    "IT Equipment - Sihui Marine": {
+      "canonical": "IT Equipment - Sihui Marine",
+      "examples": [
+        "FS-SIHUI-lander",
+        "FS-SIHUI",
+        "FS-SIHUI-link",
+        "Sihui Marine-light house"
+      ]
+    },
+    "Communications - VSAT (KVH)": {
+      "canonical": "Communications - VSAT (KVH)",
+      "examples": [
+        "FS-KVH-LANDER UPDATED",
+        "FS-KVH-GSI",
+        "FS-KVH -LIGHTHOUSE UPDATED",
+        "FS-KVH-LIGHTHOUSE",
+        "FS-KVH-SWS",
+        "FS-KVH-SWS-LOGOS",
+        "FS-KVH-SWS-LOYAL"
+      ]
+    },
+    "Communications - VLINK": {
+      "canonical": "Communications - VLINK",
+      "examples": [
+        "FS-VLINK-2411005",
+        "FS-VLINK-H1610",
+        "FS-VLINK-H1612",
+        "FS-VLINK-Accessories",
+        "FS-VLINK CABLE"
+      ]
+    },
+    "Communications - Starlink Accessories": {
+      "canonical": "Communications - Starlink Accessories",
+      "examples": [
+        "FS-VLINK-Starlink Accessories"
+      ]
+    },
+    "LNG Operation Manual": {
+      "canonical": "LNG Operation Manual",
+      "examples": [
+        "Service: LNG OPERATION MANUAL Development",
+        "LNG OPERATION MANUAL Development"
+      ]
+    },
+    "Tripods & Spray Pipes": {
+      "canonical": "Tripods & Spray Pipes",
+      "examples": [
+        "Shipyard Extra Buyers Supply - Tripods and Spray Pipes",
+        "Pre Delivery - Spray Pipes"
+      ]
+    },
+    "QCDC": {
+      "canonical": "QCDC",
+      "examples": [
+        "Pre Delivery - QCDC",
+        "Shipyard Extra (buyer Supply) - QCDC -GSI",
+        "QC DC Supply",
+        "QC DC"
+      ]
+    },
+    "Gas Detection System": {
+      "canonical": "Gas Detection System",
+      "examples": [
+        "Reliabiltiy Spares - Gas Detection System",
+        "Reliability Spares - Gas Detection System"
+      ]
+    },
+    "Navigation - HiNAS SVM": {
+      "canonical": "Navigation - HiNAS SVM",
+      "examples": [
+        "Shipyard Extra Buyer Supply - Hinas SVM SEASPAN 10.8K PCTC",
+        "Shipyard Extra Buyers Supply - Hinas SVM SEASPAN 10.8K PCTC",
+        "Shipyard Extra Buyer Supply - HiNAS SVM 10800 A-Q-2025-09-02_R0",
+        "HiNAS SVM (Surround View Monitoring)",
+        "New Positioning System for Transiting Neopanamax - Buyer Supply",
+        "Buyer Supply - New Positioning System for Transiting Panama ( inc. Anti Jamming) (SAAB R6 NAV NEO)"
+      ]
+    },
+    "Navigation - Captains Eye": {
+      "canonical": "Navigation - Captains Eye",
+      "examples": [
+        "Shipyard Extra Owner supply - Captains Eye",
+        "Captain eye"
+      ]
+    },
+    "Thermal Camera (FLIR)": {
+      "canonical": "Thermal Camera (FLIR)",
+      "examples": [
+        "FLIR ESPro and E6 Pro",
+        "Pre Delivery - FLIR Camera",
+        "Two (2) explosion-proof portable thermal imaging cameras",
+        "8. Explosion Proof Camera"
+      ]
+    },
+    "Fire Detection System": {
+      "canonical": "Fire Detection System",
+      "examples": [
+        "Reliability Spares - Fire detection system"
+      ]
+    },
+    "Sample Cooler": {
+      "canonical": "Sample Cooler",
+      "examples": [
+        "Pre Delivery - Sample Cooler",
+        "Sampling Cooler- Qty?"
+      ]
+    },
+    "Cryogenic PPE": {
+      "canonical": "Cryogenic PPE",
+      "examples": [
+        "Pre Delivery - Cryogenic PPE",
+        "Cryogenic PPE - Scandia"
+      ]
+    },
+    "LNG Bunkering Equipment": {
+      "canonical": "LNG Bunkering Equipment",
+      "examples": [
+        "Pre Delivery - LNG Bunkering Equipment"
+      ]
+    },
+    "Seatab": {
+      "canonical": "Seatab",
+      "examples": [
+        "Pre Delivery - Seatab",
+        "Seatab"
+      ]
+    },
+    "Garbage Compactor": {
+      "canonical": "Garbage Compactor",
+      "examples": [
+        "Pre Delivery - Garbage Compactor",
+        "Garbage Compactor",
+        "Garbage compactor in garbage room and engine room"
+      ]
+    },
+    "Oil Skimmers - Abanaki": {
+      "canonical": "Oil Skimmers - Abanaki",
+      "examples": [
+        "SHIPYARD EXTRA OWNER SUPPLY- Abanaki Skimmers",
+        "SHIPYARD EXTRA ONWER SUPPLY - Abanaki Skimmers",
+        "Oil Skimmers for engine room"
+      ]
+    },
+    "Boiler Spares": {
+      "canonical": "Boiler Spares",
+      "examples": [
+        "Reliability Spares - PCTC-Seaspan - Boilers QUOT26012103",
+        "Reliability Spares - PCTC-Seaspan - Boilers QUOT26012103_R00",
+        "Reliability Spares - 10,8K CEU SWS - GVT- Korval",
+        "Reliability Spares - 10,8K CEU SWS - GVT- Eltronic"
+      ]
+    },
+    "Ultrasonic Cleaner": {
+      "canonical": "Ultrasonic Cleaner",
+      "examples": [
+        "Ultrasonic Cleaning system - 230V",
+        "Ultrasonic Cleaner"
+      ]
+    },
+    "OPA 90 Kit": {
+      "canonical": "OPA 90 Kit",
+      "examples": [
+        "OPA 90 KIT - 12-barrel kit",
+        "Pre-Delivery - OPA 90"
+      ]
+    },
+    "High Pressure Washer": {
+      "canonical": "High Pressure Washer",
+      "examples": [
+        "H.P machine - 2pcs (prefer Branded - Karcher/ KEW)",
+        "Reliability HP Pump Skid",
+        "HP Pump Skid",
+        "Air driven HP Pump - For hydraulic nuts for M/E",
+        "13. Air driven HP Pump - For hydraulic nuts for M/E - From Dan Marine or VLINK"
+      ]
+    },
+    "Steam Splash Suit": {
+      "canonical": "Steam Splash Suit",
+      "examples": [
+        "3. Steam Splash Suit"
+      ]
+    },
+    "Gas Meters": {
+      "canonical": "Gas Meters",
+      "examples": [
+        "Gas meters",
+        "Gas Meter"
+      ]
+    },
+    "Oily Water Separator": {
+      "canonical": "Oily Water Separator",
+      "examples": [
+        "Oily Water Separator"
+      ]
+    },
+    "BWTS Spares": {
+      "canonical": "BWTS Spares",
+      "examples": [
+        "BWTS Spares"
+      ]
+    },
+    "Publications & Manuals": {
+      "canonical": "Publications & Manuals",
+      "examples": [
+        "Manuals for all equipment- priority for BWTS, STP, OWS, EMGCY AC, EMCY GEN",
+        "Publications"
+      ]
+    },
+    "EV Lance": {
+      "canonical": "EV Lance",
+      "examples": [
+        "EV Lance"
+      ]
+    },
+    "RO-RO Equipment - Loose Fittings": {
+      "canonical": "RO-RO Equipment - Loose Fittings",
+      "examples": [
+        "PCTC Loose Fittings Procurement",
+        "Jonghap - PCTC Loose Fittings Procurement",
+        "Item no 11, loose equipment for emergency operation of roro equipment"
+      ]
+    },
+    "RO-RO Equipment - Spares": {
+      "canonical": "RO-RO Equipment - Spares",
+      "examples": [
+        "RO-RO Equipment (Main & Centre Ramp spares + inner Ramp spares)",
+        "Reliability RO-RO Equipment (Main & Centre Ramp spares + inner Ramp spares)"
+      ]
+    },
+    "Engine Spares - Main Engine": {
+      "canonical": "Engine Spares - Main Engine",
+      "examples": [
+        "Main Engine Spares",
+        "Main Engine - Additional Spares",
+        "Main Engine"
+      ]
+    },
+    "Engine Spares - Auxiliary Engine": {
+      "canonical": "Engine Spares - Auxiliary Engine",
+      "examples": [
+        "Aux. Engine Spares",
+        "Aux. Engine"
+      ]
+    },
+    "Sewage Treatment Plant": {
+      "canonical": "Sewage Treatment Plant",
+      "examples": [
+        "Sewage Traetment Plant",
+        "Sewage Treatment Plant"
+      ]
+    },
+    "Sewage Discharge Pump": {
+      "canonical": "Sewage Discharge Pump",
+      "examples": [
+        "Sewage Discharge P/P"
+      ]
+    },
+    "Mooring Ropes": {
+      "canonical": "Mooring Ropes",
+      "examples": [
+        "Mooring Rope"
+      ]
+    },
+    "Citadel VHF/GPS/UHF System": {
+      "canonical": "Citadel VHF/GPS/UHF System",
+      "examples": [
+        "Citadel VHF/GPS and UHF ANTENNA system",
+        "Buyer Supply - 10,800 PCTC Citadel VHF/GPS and UHF ANTENNA system",
+        "Citadel Items"
+      ]
+    },
+    "UHF Radio": {
+      "canonical": "UHF Radio",
+      "examples": [
+        "UHF Radio",
+        "UHF Radio (Handheld)",
+        "UHF radios",
+        "UHF Antenna"
+      ]
+    },
+    "Welding Equipment": {
+      "canonical": "Welding Equipment",
+      "examples": [
+        "Pre Delivery - Welding Equipment",
+        "Welding machine in Workshop 440 v"
+      ]
+    },
+    "Engineering Products & Chemicals": {
+      "canonical": "Engineering Products & Chemicals",
+      "examples": [
+        "Pre Delivery - Engineering Products & Kits (DREW)"
+      ]
+    },
+    "Dual Fuel Tools": {
+      "canonical": "Dual Fuel Tools",
+      "examples": [
+        "DF Tools",
+        "DF Tools for Methanol Project"
+      ]
+    },
+    "Safety Integration - SMiG": {
+      "canonical": "Safety Integration - SMiG",
+      "examples": [
+        "Shipyard Extra (Owner supply) - 10800 CEU LNG PCTC _x0013_ Consilium SMiG Integration",
+        "SHIPYARD EXTRA OWNER SUPPLY - SWS-10.8k CEU extra cost for SMiG application",
+        "SHIPYARD EXTRA OWNER SUPLPY - 10800 CEU LNG PCTC _x0013_ Consilium SMiG Integration"
+      ]
+    },
+    "Nitrogen Generator": {
+      "canonical": "Nitrogen Generator",
+      "examples": [
+        "Reliability Nitrogen Generator",
+        "Nitrogen Generator"
+      ]
+    },
+    "Training - Wartsila": {
+      "canonical": "Training - Wartsila",
+      "examples": [
+        "Wartsila Training PCTC"
+      ]
+    },
+    "Fleet Systems - Services": {
+      "canonical": "Fleet Systems - Services",
+      "examples": [
+        "FS services",
+        "FS"
+      ]
+    },
+    "Fleet Systems - General": {
+      "canonical": "Fleet Systems - General",
+      "examples": [
+        "FS-VLINK-Accessories"
+      ]
+    },
+    "Treatment Chemicals": {
+      "canonical": "Treatment Chemicals",
+      "examples": [
+        "Pre Delivery - Treatment Chemical"
+      ]
+    },
+    "Refrigerant Equipment": {
+      "canonical": "Refrigerant Equipment",
+      "examples": [
+        "Refrigerant Equipment",
+        "Reefer cable and plugs extensions"
+      ]
+    },
+    "BOG Compressor Spares": {
+      "canonical": "BOG Compressor Spares",
+      "examples": [
+        "Reliability - Donghwa Spares for BOG Compressor"
+      ]
+    },
+    "IMPA Stores - BA Compressor": {
+      "canonical": "IMPA Stores - BA Compressor",
+      "examples": [
+        "Impa Stores - BA Compressor",
+        "Breathing air compressor",
+        "BA compressor"
+      ]
+    },
+    "IMPA Stores - Engine": {
+      "canonical": "IMPA Stores - Engine",
+      "examples": [
+        "Impa Stores - Engine",
+        "IMPA Stores - Engine 1"
+      ]
+    },
+    "IMPA Stores - Galley": {
+      "canonical": "IMPA Stores - Galley",
+      "examples": [
+        "Impa Stores - Galley"
+      ]
+    },
+    "IMPA Stores - Accommodation": {
+      "canonical": "IMPA Stores - Accommodation",
+      "examples": [
+        "Impa Stores - ACC"
+      ]
+    },
+    "IMPA Stores - Bridge": {
+      "canonical": "IMPA Stores - Bridge",
+      "examples": [
+        "Impa Stores - Bridge"
+      ]
+    },
+    "IMPA Stores - Gym": {
+      "canonical": "IMPA Stores - Gym",
+      "examples": [
+        "Impa Stores - Gym"
+      ]
+    },
+    "IMPA Stores - Crew": {
+      "canonical": "IMPA Stores - Crew",
+      "examples": [
+        "Impa Stores - Crew"
+      ]
+    },
+    "IMPA Stores - FFE": {
+      "canonical": "IMPA Stores - FFE",
+      "examples": [
+        "Impa Stores - FFE"
+      ]
+    },
+    "IMPA Stores - Company Stationery": {
+      "canonical": "IMPA Stores - Company Stationery",
+      "examples": [
+        "Impa Stores - Company Stationery"
+      ]
+    },
+    "IMPA Stores - Deck": {
+      "canonical": "IMPA Stores - Deck",
+      "examples": [
+        "Impa Stores - Deck"
+      ]
+    },
+    "IMPA Stores - SOPEP": {
+      "canonical": "IMPA Stores - SOPEP",
+      "examples": [
+        "Impa Stores - SOPEP"
+      ]
+    },
+    "IMPA Stores - Electric": {
+      "canonical": "IMPA Stores - Electric",
+      "examples": [
+        "Impa Stores - Electric"
+      ]
+    },
+    "IMPA Stores - Instrumentation": {
+      "canonical": "IMPA Stores - Instrumentation",
+      "examples": [
+        "Impa Stores - Instrumenation"
+      ]
+    },
+    "IMPA Stores - Stationery": {
+      "canonical": "IMPA Stores - Stationery",
+      "examples": [
+        "Impa Stores Stationery",
+        "12. Standard Chinese stationery"
+      ]
+    },
+    "Temperature Calibrators": {
+      "canonical": "Temperature Calibrators",
+      "examples": [
+        "Temperature Calibrators",
+        "10. Temperature & Pressure Calibrators"
+      ]
+    },
+    "Pressure Calibrators": {
+      "canonical": "Pressure Calibrators",
+      "examples": [
+        "Pressure Calibrators"
+      ]
+    },
+    "Maintenance Chemicals": {
+      "canonical": "Maintenance Chemicals",
+      "examples": [
+        "Maintenance Chemicals",
+        "Chemical",
+        "Naoh"
+      ]
+    },
+    "Industrial Gases": {
+      "canonical": "Industrial Gases",
+      "examples": [
+        "Gases",
+        "Gas Cylinders",
+        "Industrial Gases"
+      ]
+    },
+    "Sea Trial": {
+      "canonical": "Sea Trial",
+      "examples": [
+        "Seatrial Stores",
+        "Seatrial"
+      ]
+    },
+    "Safety & PPE": {
+      "canonical": "Safety & PPE",
+      "examples": [
+        "2. LOTO Stickers",
+        "4. Chemical tags",
+        "5. Trelleborg Safe lanes",
+        "Immersion Suit",
+        "Fire Mans Outfit",
+        "PPE - RMS",
+        "Rubber Matting"
+      ]
+    },
+    "VISWA Line Samplers": {
+      "canonical": "VISWA Line Samplers",
+      "examples": [
+        "11. VISWA Line Samplers"
+      ]
+    },
+    "Crew Care & Provisions": {
+      "canonical": "Crew Care & Provisions",
+      "examples": [
+        "Crew Care",
+        "Provisions and Bonds",
+        "Medicines",
+        "Medox and Equipments",
+        "Domestic refrigerators 200 litres for rec rooms to be added to stores supplies"
+      ]
+    },
+    "Shipyard / Miscellaneous": {
+      "canonical": "Shipyard / Miscellaneous",
+      "examples": [
+        "Stanchions",
+        "Stancions",
+        "Manual chain blocks",
+        "Service Car and Forlift",
+        "Service Car",
+        "Forlift",
+        "Alcometer",
+        "Bosch GLM-50 or Laser Distance Measuring Tool",
+        "Deck Sweeper",
+        "Suez light",
+        "Soot Release Dosing Device- Qty?",
+        "Soot Releasing Dosing Unit",
+        "Soot",
+        "Ozone sterilizer",
+        "Ozone sterliser",
+        "Garbage Refrigerator",
+        "Garbage refrigerator in dry provision store",
+        "Electric Hoist",
+        "Receptacles",
+        "Two (2) receptacles in officer's mess room, crew's mess room for electric wall type fan",
+        "One (1) receptacle in public space (conference room, gymnasium, galley, crew's recreation room, offcier's recreation room, ship office) for electric wall type fan.",
+        "Cable for electrical power shore connection",
+        "Nitrogen Hose",
+        "Thermal Stop PO",
+        "Smart Docking system (Buyer Supply) -",
+        "ORCA-AI",
+        "Iron Test Kit from CMT",
+        "Oil Test Kit",
+        "Oxygen fastening rack and strap"
+      ]
+    }
+  }
 }
