@@ -484,9 +484,17 @@ def apply_to_workbook(wb_path: str):
                 break
 
         if std_col is None:
-            # Place it right after PO Name (col C = 3), so col D = 4
-            # But col D may be merged/used; use col 4 and bump if needed
-            std_col = PO_NAME_COL + 1  # column D
+            col_d_val = ws.cell(row=HEADER_ROW, column=PO_NAME_COL + 1).value
+            if col_d_val is None:
+                # Empty slot right after PO Name — use it
+                std_col = PO_NAME_COL + 1
+            else:
+                # Find last used column in header row and append after it
+                last_col = max(
+                    (c.column for c in ws[HEADER_ROW] if c.value is not None),
+                    default=PO_NAME_COL,
+                )
+                std_col = last_col + 1
             ws.cell(row=HEADER_ROW, column=std_col, value="PO Name Standardized")
 
         classified = 0
